@@ -6,7 +6,7 @@
 [Project MO Logo]
 
 <p align="center">
-  <img src="assets/logo/svg/Project_MO_Primary.svg" width="300">
+  <img src="assets/logo/svg/Project MO_Primary.svg" width="300">
 </p>
 
 ## About
