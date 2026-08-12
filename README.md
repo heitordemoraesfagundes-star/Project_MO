@@ -3,8 +3,6 @@
 > An open-source desktop companion designed to explore how embedded
 > electronics and engineering can be made approachable, expressive, and fun.
 
-[Project MO Logo]
-
 <p align="center">
   <img src="assets/logo/svg/Project MO_Primary.svg" width="300">
 </p>
