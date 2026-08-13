@@ -90,6 +90,7 @@ Project documentation is organized according to the development process.
 - [System Design Document](docs/02_Design/System_Design_Document.md)
 - [Hardware Specification Document](docs/02_Design/Hardware_Specification_Document.md)
 - [Mechanical Design Specification](docs/02_Design/Mechanical_Design_Specification.md)
+- [Project Brand Specification](docs/02_Design/Project_Brand_Specification.md)
 
 Additional documentation, development logs, design decisions, assembly
 instructions, and testing documentation will be added as development
