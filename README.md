@@ -82,15 +82,15 @@ Project documentation is organized according to the development process.
 
 ### Planning
 
-- [Product Requirements Document](docs/01_Planning/Product_Requirements_Document.md)
-- [Engineering Design Report](docs/01_Planning/Engineering_Design_Report.md)
+- [Product Requirements Document](docs/01_Planning/Product_Requirements_Document.docx)
+- [Engineering Design Report](docs/01_Planning/Engineering_Design_Report.docx)
 
 ### Design
 
 - [System Design Document](docs/02_Design/System_Design_Document.md)
-- [Hardware Specification Document](docs/02_Design/Hardware_Specification_Document.md)
-- [Mechanical Design Specification](docs/02_Design/Mechanical_Design_Specification.md)
-- [Project Brand Specification](docs/02_Design/Project_Brand_Specification.md)
+- [Hardware Specification Document](docs/02_Design/Hardware_Specification_Document.docx)
+- [Mechanical Design Specification](docs/02_Design/Mechanical_Design_Specification.docx)
+- [Project Brand Specification](docs/02_Design/Project_Brand_Specification.docx)
 
 Additional documentation, development logs, design decisions, assembly
 instructions, and testing documentation will be added as development
