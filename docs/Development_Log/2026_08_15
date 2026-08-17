@@ -1,0 +1,50 @@
+# Project MO — Development Log
+
+**Date:** 2026-08-15  
+**Session:** Repository Setup & Documentation
+
+## Objectives
+
+- Begin organizing the Project MO GitHub repository.
+- Establish a consistent structure for project files and documentation.
+- Begin transitioning project documentation to Markdown.
+- Establish the project's development log system.
+
+## Work Completed
+
+- Created the Project MO GitHub repository.
+- Added the initial README.
+- Uploaded the existing project documentation and assets.
+- Organized the repository around dedicated areas for:
+  - Documentation
+  - Bill of Materials
+  - Hardware
+  - Firmware
+  - Assets
+  - Media
+  - Tools
+- Established `docs/Development_Log/` as the location for project development records.
+- Established a standard format for future development-log entries.
+- Began converting the project's Word documents from `.docx` to Markdown for use on GitHub.
+- Converted the Product Requirements Document and Engineering Design Report to Markdown.
+- Began developing the README as the main entry point for the repository.
+
+## Decisions Made
+
+- The GitHub repository will use `Project_MO` as its repository name.
+- Project documentation will be organized under `docs/`.
+- Development sessions will be recorded as individual Markdown files.
+- Markdown will be used for the main text-based project documentation on GitHub.
+- The README will be treated as a living document and expanded as the project progresses.
+
+## Problems / Blockers
+
+- The remaining project documents still need to be converted from `.docx` to Markdown.
+- Some repository documentation links will remain incomplete until all documents have been uploaded and organized.
+
+## Next Steps
+
+- Convert the remaining project documents to Markdown.
+- Finish organizing the documentation folders.
+- Complete and polish the README.
+- Begin the enclosure modification and mechanical-design phase.

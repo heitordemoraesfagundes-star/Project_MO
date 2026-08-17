@@ -1,0 +1,33 @@
+# Project MO — Development Log
+
+**Date:** 2026-08-10  
+**Session:** Finished logo design
+
+## Objectives
+
+- Finish logo.
+- Create all variations.
+
+## Work Completed
+
+- Logo design complete.
+- Created all variations in .svg format.
+
+## Decisions Made
+
+- Color pallets for each varition:
+- Primary: #182126 (Charcoal) + #72D6C1 (Mint).
+- Dark: #182126 (Charcoal) + #B7E9DC (Light Mint).
+- Light: #F4F1E8 (Cream) + #182126 (Charcoal).
+- Monochrome: White/transparent + Black.
+
+## Problems / Blockers
+
+- None
+
+## Next Steps
+
+- Organizze GitHub repository.
+- Establish a consistent structure for project files and documentation.
+- Begin transitioning project documentation to Markdown.
+- Establish the project's development log system.
