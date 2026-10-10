@@ -1,0 +1,9 @@
+Item,Filename,Bounding size X x Y x Z (mm),File size (bytes),SHA-256
+Amplifier,Project_MO_V1_Amplifier_Fit_Coupon.3mf,30.00 x 30.00 x 6.00,47928,ef2739e688dd49e12fb9698df9078890487c45df6d3a8a0361797d1499e1242a
+ESP32,Project_MO_V1_ESP32_Fit_Coupon.3mf,18.00 x 66.00 x 40.00,130541,8545c781b8c73136d46743fd801425edfd8c8419e1726fcf2de12e73d4b55369
+Fastener,Project_MO_V1_Fastener_Fit_Coupon.3mf,80.00 x 35.00 x 13.00,80539,9b84fe77ffbad126e93e454bbcf309aa8fef9af00f5d05f9b5d716eef59879dd
+Limb interface,Project_MO_V1_Limb_Interface_Fit_Coupon.3mf,42.00 x 42.00 x 6.00,88063,eef5db47654909ed5ce5eda90981175fcb417dfbc2ac64d8fc3b7c516257931d
+Microphone,Project_MO_V1_Microphone_Fit_Coupon.3mf,35.00 x 25.00 x 8.00,97258,18593cb13bd3083c0475cfa951a7a8816e26fff75ad82fb5ee2ea8778fdfca00
+Speaker,Project_MO_V1_Speaker_Fit_Coupon.3mf,60.00 x 60.00 x 21.00,99127,e47acc3dd09b1e40674832f670374e5704561234eced465f4ecf6d7702eeac13
+Switch,Project_MO_V1_Switch_Fit_Coupon.3mf,45.00 x 45.00 x 3.00,85832,a6d9e6291e48760dfe3cf0153fac76ff54ca2da62a0628fa395d072d17354152
+Dedicated USB-C,Project_MO_V1_USB_C_Fit_Coupon.3mf,30.00 x 25.00 x 25.00,95860,2986dd9c8f053b88374b1adaa4b648dc05053d8e7221c9d85cd95d7631aba229
